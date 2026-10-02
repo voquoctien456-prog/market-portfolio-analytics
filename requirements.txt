@@ -1,0 +1,6 @@
+pandas>=2.2.0
+numpy>=1.26.0
+vnstock>=0.1.0
+dash>=2.14.0
+plotly>=5.17.0
+requests>=2.32.0
